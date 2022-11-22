@@ -1,5 +1,5 @@
 
 !---------Custom Rules---------
-www.amazon.com
-.*amazon.com
+||.amazon.com
+||.*amazon.com
 @@||.*amazon.cn
