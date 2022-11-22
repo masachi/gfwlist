@@ -1,5 +1,5 @@
 
 !---------Custom Rules---------
-.amazon.com
+|https://www.amazon.com
 .*amazon.com
 !--@@||.*amazon.cn
