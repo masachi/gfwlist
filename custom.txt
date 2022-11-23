@@ -5,3 +5,4 @@
 |https://www.amazon.ca
 .*amazon.ca
 !--@@||.*amazon.cn
+|https://accounts.nintendo.com
