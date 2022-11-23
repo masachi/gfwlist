@@ -2,4 +2,6 @@
 !---------Custom Rules---------
 |https://www.amazon.com
 .*amazon.com
+|https://www.amazon.ca
+.*amazon.ca
 !--@@||.*amazon.cn
