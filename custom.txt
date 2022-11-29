@@ -6,3 +6,4 @@
 .*amazon.ca
 !--@@||.*amazon.cn
 |https://accounts.nintendo.com
+|https://sellercentral.amazon.com
