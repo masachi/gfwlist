@@ -7,3 +7,4 @@
 !--@@||.*amazon.cn
 |https://accounts.nintendo.com
 |https://sellercentral.amazon.com
+|https://echarts.apache.org
