@@ -8,3 +8,5 @@
 |https://accounts.nintendo.com
 |https://sellercentral.amazon.com
 |https://echarts.apache.org
+|https://www.uspto.gov/
+|https://tmsearch.uspto.gov/
