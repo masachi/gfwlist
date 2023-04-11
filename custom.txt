@@ -22,3 +22,4 @@
 |https://game.mahjongsoul.com
 |https://mahjongsoul.com
 |https://login.live.com
+|https://www.diffchecker.com
