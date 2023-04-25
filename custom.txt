@@ -24,3 +24,4 @@
 |https://login.live.com
 |https://www.diffchecker.com
 |https://poe.com
+|https://www.hoyolab.com
