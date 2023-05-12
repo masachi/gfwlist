@@ -26,3 +26,5 @@
 |https://poe.com
 |https://www.hoyolab.com
 ||hoyoverse.com
+||deepl.com
+
