@@ -27,4 +27,5 @@
 |https://www.hoyolab.com
 ||hoyoverse.com
 ||deepl.com
+||danbooru.donmai.us
 
