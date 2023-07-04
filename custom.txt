@@ -28,4 +28,4 @@
 ||hoyoverse.com
 ||deepl.com
 ||danbooru.donmai.us
-
+|https://devolutions.net/
