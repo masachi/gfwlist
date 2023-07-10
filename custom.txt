@@ -30,3 +30,4 @@
 ||danbooru.donmai.us
 |https://devolutions.net/
 |https://yandex.com/
+|https://www.weblio.jp/
