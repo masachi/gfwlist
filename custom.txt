@@ -29,3 +29,4 @@
 ||deepl.com
 ||danbooru.donmai.us
 |https://devolutions.net/
+|https://yandex.com/
