@@ -31,3 +31,4 @@
 |https://devolutions.net/
 |https://yandex.com/
 |https://www.weblio.jp/
+.cdn.office.net
