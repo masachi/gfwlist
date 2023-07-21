@@ -32,3 +32,4 @@
 |https://yandex.com/
 |https://www.weblio.jp/
 .cdn.office.net
+|https://www.coszip.com/
