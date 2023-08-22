@@ -33,3 +33,4 @@
 |https://www.weblio.jp/
 .cdn.office.net
 |https://www.coszip.com/
+|https://www.temu.com/
