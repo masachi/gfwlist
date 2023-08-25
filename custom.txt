@@ -34,3 +34,4 @@
 .cdn.office.net
 |https://www.coszip.com/
 |https://www.temu.com/
+|https://steamdb.info/
