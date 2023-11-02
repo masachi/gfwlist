@@ -45,6 +45,6 @@
 |https://zoom.us/zh-cn/join
 |https://saucenao.com/
 |https://singlelogin.re/
-
+|https://app.slack.com/
 
 
