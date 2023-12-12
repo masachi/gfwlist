@@ -46,7 +46,6 @@
 |https://saucenao.com/
 |https://singlelogin.re/
 |https://app.slack.com/
-|https://books.rakuten.co.jp/
-|https://www.rakuten.co.jp/
+*.rakuten.co.jp/
 
 
