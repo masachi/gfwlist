@@ -47,5 +47,6 @@
 |https://app.slack.com/
 ||rakuten.co.jp
 ||www.temu.com
+||www.tiktok.com
 
 
