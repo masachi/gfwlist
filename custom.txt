@@ -33,7 +33,6 @@
 |https://www.weblio.jp/
 .cdn.office.net
 |https://www.coszip.com/
-|https://www.temu.com/
 |https://steamdb.info/
 |https://us.shein.com/
 |https://us.shein.com/
@@ -47,5 +46,6 @@
 |https://singlelogin.re/
 |https://app.slack.com/
 ||rakuten.co.jp
+||www.temu.com
 
 
