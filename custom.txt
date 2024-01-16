@@ -48,5 +48,6 @@
 ||rakuten.co.jp
 ||www.temu.com
 ||www.tiktok.com
+||www.lofter.com
 
 
