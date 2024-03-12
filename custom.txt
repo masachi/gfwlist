@@ -49,5 +49,6 @@
 ||www.temu.com
 ||www.tiktok.com
 ||www.lofter.com
+||singlelogin.se
 
 
