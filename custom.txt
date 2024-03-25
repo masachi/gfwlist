@@ -52,3 +52,4 @@
 ||singlelogin.se
 ||www.ozon.ru
 ||www.wildberries.ru
+||zh.singlelogin.re
