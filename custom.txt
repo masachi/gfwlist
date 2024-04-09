@@ -4,6 +4,12 @@
 .*amazon.com
 |https://www.amazon.ca
 .*amazon.ca
+|https://www.amazon.de
+.*amazon.de
+|https://www.amazon.fr
+.*amazon.fr
+|https://www.amazon.co.uk
+.*amazon.co.uk
 !--@@||.*amazon.cn
 |https://accounts.nintendo.com
 |https://sellercentral.amazon.com
