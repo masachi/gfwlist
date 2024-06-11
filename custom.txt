@@ -60,3 +60,11 @@
 ||www.wildberries.ru
 ||zh.singlelogin.re
 ||anthropic.com
+||tiktok.com
+||tiktokcdn-us.com
+||tiktokw.us
+||tiktokv.us
+||tiktokv.com
+||tiktokcdn.com
+.*tiktok.*
+||ttwstatic.com
