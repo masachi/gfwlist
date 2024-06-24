@@ -68,3 +68,4 @@
 ||tiktokcdn.com
 .*tiktok.*
 ||ttwstatic.com
+||ozon.ru
