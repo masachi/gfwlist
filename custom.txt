@@ -69,3 +69,4 @@
 .*tiktok.*
 ||ttwstatic.com
 ||ozon.ru
+||cloudflare.com
