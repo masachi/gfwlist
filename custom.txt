@@ -71,3 +71,4 @@
 ||ozon.ru
 ||cloudflare.com
 ||ads.tiktok.com
+||mon.tiktokv.com
