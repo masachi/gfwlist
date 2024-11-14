@@ -70,3 +70,4 @@
 ||ttwstatic.com
 ||ozon.ru
 ||cloudflare.com
+||ads.tiktok.com
