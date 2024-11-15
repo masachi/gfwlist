@@ -72,3 +72,6 @@
 ||cloudflare.com
 ||ads.tiktok.com
 ||mon.tiktokv.com
+||ideogram.ai
+||zmo.ai
+
