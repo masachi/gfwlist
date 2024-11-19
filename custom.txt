@@ -74,4 +74,5 @@
 ||mon.tiktokv.com
 ||ideogram.ai
 ||zmo.ai
+||temu.com
 
