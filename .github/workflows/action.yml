@@ -1,0 +1,38 @@
+name: Sync GFWlist
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  sync-gfwlist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - uses: tgymnich/fork-sync@v1.6.3
+        with:
+          owner: masachi
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          base: master
+          head: master
+      - name: Install Dependencies
+        working-directory: .
+        run: npm install
+      - name: Generate Custom GfwList
+        working-directory: .
+        run: npm run start
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "[Update] Update Custom GFWList"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          branch: ${{ github.ref }}
