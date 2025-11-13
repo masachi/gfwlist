@@ -75,4 +75,6 @@
 ||ideogram.ai
 ||zmo.ai
 ||temu.com
+||shein.com.mx
+||shein.com
 
