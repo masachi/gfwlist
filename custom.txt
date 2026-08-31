@@ -77,4 +77,5 @@
 ||temu.com
 ||shein.com.mx
 ||shein.com
+||newbarleyai.com
 
