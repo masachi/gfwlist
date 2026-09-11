@@ -4447,7 +4447,6 @@ iipdigital.usembassy.gov
 !#############Supplemental List End#############
 !################Whitelist Start################
 @@||firebase-settings.crashlytics.com
-@@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
 @@||ci.android.com
