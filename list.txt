@@ -2210,6 +2210,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
 ||guangming.com.my
