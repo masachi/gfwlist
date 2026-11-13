@@ -1211,6 +1211,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||51papaya.com
 ||123av.org
 ||7x24hrs.com
 ||123av.me
